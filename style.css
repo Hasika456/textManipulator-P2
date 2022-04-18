@@ -1,0 +1,28 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px rgb(255, 119, 0);
+}
+
+.note{
+    font-size:23px;
+    color:black;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align:center;
+    background-color: rgb(135, 162, 212);
+    color:cornsilk;
+    line-height: 3;
+    font-size:18px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(65, 174, 225);
+}
